@@ -1,0 +1,1367 @@
+[
+  {
+    "id": "Section",
+    "kana": null,
+    "word": "話読聞書",
+    "translate": {
+      "hy": [
+        null
+      ],
+      "en": [
+        null
+      ]
+    }
+  },
+  {
+    "id": "01",
+    "kana": null,
+    "word": "おいしい",
+    "translate": {
+      "hy": [
+        [
+          "համեղ"
+        ]
+      ],
+      "en": [
+        "delicious"
+      ]
+    }
+  },
+  {
+    "id": "Section",
+    "kana": null,
+    "word": "1 どこですか",
+    "translate": {
+      "hy": [
+        null
+      ],
+      "en": [
+        null
+      ]
+    }
+  },
+  {
+    "id": "02",
+    "kana": null,
+    "word": "ここ／こちら",
+    "translate": {
+      "hy": [
+        [
+          "այստեղ"
+        ]
+      ],
+      "en": [
+        "here/ over here"
+      ]
+    }
+  },
+  {
+    "id": "03",
+    "kana": null,
+    "word": "そこ／そちら",
+    "translate": {
+      "hy": [
+        [
+          "այդտեղ"
+        ]
+      ],
+      "en": [
+        "there/ over there (relatively close)"
+      ]
+    }
+  },
+  {
+    "id": "04",
+    "kana": null,
+    "word": "あそこ／あちら",
+    "translate": {
+      "hy": [
+        [
+          "այնտեղ"
+        ]
+      ],
+      "en": [
+        "there/ over there (relatively far)"
+      ]
+    }
+  },
+  {
+    "id": "05",
+    "kana": null,
+    "word": "インフォメーション",
+    "translate": {
+      "hy": [
+        [
+          "ինֆորմացիա"
+        ]
+      ],
+      "en": [
+        "information"
+      ]
+    }
+  },
+  {
+    "id": "06",
+    "kana": "ATM",
+    "word": "ＡＴＭ",
+    "translate": {
+      "hy": [
+        [
+          "բանկոմատ"
+        ]
+      ],
+      "en": [
+        "Automated Teller Machine"
+      ]
+    }
+  },
+  {
+    "id": "07",
+    "kana": null,
+    "word": "エスレーター",
+    "translate": {
+      "hy": [
+        [
+          "շարժասանդուղք"
+        ]
+      ],
+      "en": [
+        "escalator"
+      ]
+    }
+  },
+  {
+    "id": "08",
+    "kana": null,
+    "word": "エレベーター",
+    "translate": {
+      "hy": [
+        [
+          "վերելակ"
+        ]
+      ],
+      "en": [
+        "elevator"
+      ]
+    }
+  },
+  {
+    "id": "09",
+    "kana": "喫煙所",
+    "word": "きつえんじょ",
+    "translate": {
+      "hy": [
+        [
+          "ծխելու տարածք"
+        ]
+      ],
+      "en": [
+        "smoking area"
+      ]
+    }
+  },
+  {
+    "id": "10",
+    "kana": null,
+    "word": "トイレ",
+    "translate": {
+      "hy": [
+        [
+          "զուգարան"
+        ]
+      ],
+      "en": [
+        "restrooms"
+      ]
+    }
+  },
+  {
+    "id": "11",
+    "kana": null,
+    "word": "レジ",
+    "translate": {
+      "hy": [
+        [
+          "դրամարկղ"
+        ]
+      ],
+      "en": [
+        "(cash) register"
+      ]
+    }
+  },
+  {
+    "id": "12",
+    "kana": "喫茶店",
+    "word": "きっさてん",
+    "translate": {
+      "hy": [
+        [
+          "սուրճի խանութ "
+        ]
+      ],
+      "en": [
+        "coffee shop"
+      ]
+    }
+  },
+  {
+    "id": "13",
+    "kana": null,
+    "word": "スーパー",
+    "translate": {
+      "hy": [
+        [
+          "սուպերմարկետ"
+        ]
+      ],
+      "en": [
+        "supermarket"
+      ]
+    }
+  },
+  {
+    "id": "14",
+    "kana": "100円ショップ",
+    "word": "100えんショップ",
+    "translate": {
+      "hy": [
+        [
+          "100 յեն-անոց խանութ (բոլոր ապրանքներըի գինը 100 յեն է)"
+        ]
+      ],
+      "en": [
+        "100 yen shop"
+      ]
+    }
+  },
+  {
+    "id": "15",
+    "kana": null,
+    "word": "レストラン",
+    "translate": {
+      "hy": [
+        [
+          "ռեստորան"
+        ]
+      ],
+      "en": [
+        "restaurant"
+      ]
+    }
+  },
+  {
+    "id": "16",
+    "kana": "地下",
+    "word": "ちか",
+    "translate": {
+      "hy": [
+        [
+          "նկուղ"
+        ]
+      ],
+      "en": [
+        "basement"
+      ]
+    }
+  },
+  {
+    "id": "17",
+    "kana": null,
+    "word": "カメラ",
+    "translate": {
+      "hy": [
+        [
+          "տեսախցիկ"
+        ]
+      ],
+      "en": [
+        "cameras"
+      ]
+    }
+  },
+  {
+    "id": "18",
+    "kana": "携帯電話",
+    "word": "けいたいでんわ",
+    "translate": {
+      "hy": [
+        [
+          "բջջային հեռախոս"
+        ]
+      ],
+      "en": [
+        "cell/ mobile phones"
+      ]
+    }
+  },
+  {
+    "id": "19",
+    "kana": "電子辞書",
+    "word": "でんしじしょ",
+    "translate": {
+      "hy": [
+        [
+          "էլեկտրոնային բառարան"
+        ]
+      ],
+      "en": [
+        "electronic dictionaries"
+      ]
+    }
+  },
+  {
+    "id": "20",
+    "kana": null,
+    "word": "パソコン",
+    "translate": {
+      "hy": [
+        [
+          "համակարգիչ"
+        ]
+      ],
+      "en": [
+        "personal computers"
+      ]
+    }
+  },
+  {
+    "id": "21",
+    "kana": "靴",
+    "word": "くつ",
+    "translate": {
+      "hy": [
+        [
+          "կոշիկ"
+        ]
+      ],
+      "en": [
+        "shoes"
+      ]
+    }
+  },
+  {
+    "id": "22",
+    "kana": "消しゴム",
+    "word": "けしゴム",
+    "translate": {
+      "hy": [
+        [
+          "ռետին"
+        ]
+      ],
+      "en": [
+        "erasers"
+      ]
+    }
+  },
+  {
+    "id": "23",
+    "kana": null,
+    "word": "ペン",
+    "translate": {
+      "hy": [
+        [
+          "գրիչ"
+        ]
+      ],
+      "en": [
+        "pens"
+      ]
+    }
+  },
+  {
+    "id": "24",
+    "kana": null,
+    "word": "トイレットペーパー",
+    "translate": {
+      "hy": [
+        [
+          "զուգարանի թուղթ"
+        ]
+      ],
+      "en": [
+        "bathroom tissue"
+      ]
+    }
+  },
+  {
+    "id": "25",
+    "kana": "本",
+    "word": "ほん",
+    "translate": {
+      "hy": [
+        [
+          "գիրք"
+        ]
+      ],
+      "en": [
+        "books"
+      ]
+    }
+  },
+  {
+    "id": "26",
+    "kana": "油",
+    "word": "あぶら",
+    "translate": {
+      "hy": [
+        [
+          "ձեթ",
+          " յուղ"
+        ]
+      ],
+      "en": [
+        "oil"
+      ]
+    }
+  },
+  {
+    "id": "27",
+    "kana": null,
+    "word": "ケーキ",
+    "translate": {
+      "hy": [
+        [
+          "թխվածք",
+          " տորթ"
+        ]
+      ],
+      "en": [
+        "cake"
+      ]
+    }
+  },
+  {
+    "id": "28",
+    "kana": "米",
+    "word": "こめ",
+    "translate": {
+      "hy": [
+        [
+          "բրինձ"
+        ]
+      ],
+      "en": [
+        "rice"
+      ]
+    }
+  },
+  {
+    "id": "29",
+    "kana": "卵",
+    "word": "たまご",
+    "translate": {
+      "hy": [
+        [
+          "ձու"
+        ]
+      ],
+      "en": [
+        "eggs"
+      ]
+    }
+  },
+  {
+    "id": "30",
+    "kana": null,
+    "word": "パン",
+    "translate": {
+      "hy": [
+        [
+          "հաց"
+        ]
+      ],
+      "en": [
+        "bread"
+      ]
+    }
+  },
+  {
+    "id": "31",
+    "kana": "水",
+    "word": "みず",
+    "translate": {
+      "hy": [
+        [
+          "ջուր"
+        ]
+      ],
+      "en": [
+        "water"
+      ]
+    }
+  },
+  {
+    "id": "32",
+    "kana": "店員",
+    "word": "てんいん",
+    "translate": {
+      "hy": [
+        [
+          "գործավար",
+          " աշխատող"
+        ]
+      ],
+      "en": [
+        "clerk/ employee"
+      ]
+    }
+  },
+  {
+    "id": "33",
+    "kana": "〜階",
+    "word": "～かい",
+    "translate": {
+      "hy": [
+        [
+          "~ հարկ"
+        ]
+      ],
+      "en": [
+        "～floor"
+      ]
+    }
+  },
+  {
+    "id": "34",
+    "kana": "〜屋 (本屋)",
+    "word": "～や（れい：ほんや）",
+    "translate": {
+      "hy": [
+        [
+          "~ խանութ (օր․՝ գրքերի խանութ)"
+        ]
+      ],
+      "en": [
+        "～store/shop (e.g. bookstore)"
+      ]
+    }
+  },
+  {
+    "id": "35",
+    "kana": null,
+    "word": "どこ",
+    "translate": {
+      "hy": [
+        [
+          "որտեղ"
+        ]
+      ],
+      "en": [
+        "where"
+      ]
+    }
+  },
+  {
+    "id": "36",
+    "kana": null,
+    "word": "いらっしゃいませ",
+    "translate": {
+      "hy": [
+        [
+          "Բարի գալու՜ստ։ Համեցե՜ք։"
+        ]
+      ],
+      "en": [
+        "Welcome"
+      ]
+    }
+  },
+  {
+    "id": "37",
+    "kana": null,
+    "word": "（どうも）ありがとうございます",
+    "translate": {
+      "hy": [
+        [
+          "անչափ մեծ շնորհակալություն"
+        ]
+      ],
+      "en": [
+        "Thank you very much"
+      ]
+    }
+  },
+  {
+    "id": "Section",
+    "kana": null,
+    "word": "２ いくらですか ",
+    "translate": {
+      "hy": [
+        null
+      ],
+      "en": [
+        null
+      ]
+    }
+  },
+  {
+    "id": "38",
+    "kana": null,
+    "word": "これ",
+    "translate": {
+      "hy": [
+        [
+          "այս"
+        ]
+      ],
+      "en": [
+        "this"
+      ]
+    }
+  },
+  {
+    "id": "39",
+    "kana": null,
+    "word": "それ",
+    "translate": {
+      "hy": [
+        [
+          "այդ (համեմատաբար մոտ)"
+        ]
+      ],
+      "en": [
+        "that (relatively close)"
+      ]
+    }
+  },
+  {
+    "id": "40",
+    "kana": null,
+    "word": "あれ",
+    "translate": {
+      "hy": [
+        [
+          "այն (համեմատաբար հեռու)"
+        ]
+      ],
+      "en": [
+        "that (relatively far)"
+      ]
+    }
+  },
+  {
+    "id": "41",
+    "kana": null,
+    "word": "この",
+    "translate": {
+      "hy": [
+        [
+          "այս"
+        ]
+      ],
+      "en": [
+        "this"
+      ]
+    }
+  },
+  {
+    "id": "42",
+    "kana": null,
+    "word": "その",
+    "translate": {
+      "hy": [
+        [
+          "այդ (համեմատաբար մոտ)"
+        ]
+      ],
+      "en": [
+        "that (relatively close)"
+      ]
+    }
+  },
+  {
+    "id": "43",
+    "kana": null,
+    "word": "あの",
+    "translate": {
+      "hy": [
+        [
+          "այն (համեմատաբար հեռու)"
+        ]
+      ],
+      "en": [
+        "that (relatively far)"
+      ]
+    }
+  },
+  {
+    "id": "44",
+    "kana": "鞄",
+    "word": "かばん",
+    "translate": {
+      "hy": [
+        [
+          "պայուսակ"
+        ]
+      ],
+      "en": [
+        "bag"
+      ]
+    }
+  },
+  {
+    "id": "45",
+    "kana": null,
+    "word": "ズボン",
+    "translate": {
+      "hy": [
+        [
+          "տաբատ",
+          " շալվար"
+        ]
+      ],
+      "en": [
+        "pants/ slacks"
+      ]
+    }
+  },
+  {
+    "id": "46",
+    "kana": null,
+    "word": "Tシャツ",
+    "translate": {
+      "hy": [
+        [
+          "վերնաշապիկ"
+        ]
+      ],
+      "en": [
+        "T-shirt"
+      ]
+    }
+  },
+  {
+    "id": "47",
+    "kana": "時計",
+    "word": "とけい",
+    "translate": {
+      "hy": [
+        [
+          "ժամ"
+        ]
+      ],
+      "en": [
+        "watch"
+      ]
+    }
+  },
+  {
+    "id": "48",
+    "kana": "〜円",
+    "word": "～えん",
+    "translate": {
+      "hy": [
+        [
+          "~ յեն"
+        ]
+      ],
+      "en": [
+        "～yen"
+      ]
+    }
+  },
+  {
+    "id": "49",
+    "kana": null,
+    "word": "いくら",
+    "translate": {
+      "hy": [
+        [
+          "ինչքա՞ն"
+        ]
+      ],
+      "en": [
+        "How much?"
+      ]
+    }
+  },
+  {
+    "id": "50",
+    "kana": null,
+    "word": "じゃ",
+    "translate": {
+      "hy": [
+        [
+          "լավ"
+        ]
+      ],
+      "en": [
+        "Well,/ \"OK,\""
+      ]
+    }
+  },
+  {
+    "id": "Section",
+    "kana": null,
+    "word": "３ レストラン ",
+    "translate": {
+      "hy": [
+        null
+      ],
+      "en": [
+        null
+      ]
+    }
+  },
+  {
+    "id": "51",
+    "kana": "魚",
+    "word": "さかな",
+    "translate": {
+      "hy": [
+        [
+          "ձուկ"
+        ]
+      ],
+      "en": [
+        "fish"
+      ]
+    }
+  },
+  {
+    "id": "52",
+    "kana": "肉",
+    "word": "にく",
+    "translate": {
+      "hy": [
+        [
+          "միս"
+        ]
+      ],
+      "en": [
+        "meat"
+      ]
+    }
+  },
+  {
+    "id": "53",
+    "kana": "牛肉",
+    "word": "ぎゅうにく",
+    "translate": {
+      "hy": [
+        [
+          "տավարի միս"
+        ]
+      ],
+      "en": [
+        "beef"
+      ]
+    }
+  },
+  {
+    "id": "54",
+    "kana": "鶏肉",
+    "word": "とりにく",
+    "translate": {
+      "hy": [
+        [
+          "հավի միս"
+        ]
+      ],
+      "en": [
+        "chicken"
+      ]
+    }
+  },
+  {
+    "id": "55",
+    "kana": "豚肉",
+    "word": "ぶたにく",
+    "translate": {
+      "hy": [
+        [
+          "խոզի միս"
+        ]
+      ],
+      "en": [
+        "pork"
+      ]
+    }
+  },
+  {
+    "id": "56",
+    "kana": "野菜",
+    "word": "やさい",
+    "translate": {
+      "hy": [
+        [
+          "բանջարեղեն"
+        ]
+      ],
+      "en": [
+        "vegetables"
+      ]
+    }
+  },
+  {
+    "id": "57",
+    "kana": null,
+    "word": "イチゴ",
+    "translate": {
+      "hy": [
+        [
+          "ելակ"
+        ]
+      ],
+      "en": [
+        "strawberry"
+      ]
+    }
+  },
+  {
+    "id": "58",
+    "kana": null,
+    "word": "リンゴ",
+    "translate": {
+      "hy": [
+        [
+          "խնձոր"
+        ]
+      ],
+      "en": [
+        "apple"
+      ]
+    }
+  },
+  {
+    "id": "59",
+    "kana": "料理",
+    "word": "りょうり",
+    "translate": {
+      "hy": [
+        [
+          "կերակուր",
+          " ուտելիք",
+          " սնունդ"
+        ]
+      ],
+      "en": [
+        "dish (as in type of food)"
+      ]
+    }
+  },
+  {
+    "id": "60",
+    "kana": "これは魚の料理です",
+    "word": "これはさかなのりょうりです",
+    "translate": {
+      "hy": [
+        [
+          "Սա ձկով ուտելիք է։"
+        ]
+      ],
+      "en": [
+        "This is a fish dish."
+      ]
+    }
+  },
+  {
+    "id": "61",
+    "kana": null,
+    "word": "カレー",
+    "translate": {
+      "hy": [
+        [
+          "կարի"
+        ]
+      ],
+      "en": [
+        "curry"
+      ]
+    }
+  },
+  {
+    "id": "62",
+    "kana": null,
+    "word": "スープ",
+    "translate": {
+      "hy": [
+        [
+          "ապուր"
+        ]
+      ],
+      "en": [
+        "soup"
+      ]
+    }
+  },
+  {
+    "id": "63",
+    "kana": "豚カツ",
+    "word": "とんかつ",
+    "translate": {
+      "hy": [
+        [
+          "տապակած խոզի միս"
+        ]
+      ],
+      "en": [
+        "deep-fried pork cutlet"
+      ]
+    }
+  },
+  {
+    "id": "64",
+    "kana": null,
+    "word": "ハンバーグ",
+    "translate": {
+      "hy": [
+        [
+          "Կոտլետ (համբուրգերի միս)"
+        ]
+      ],
+      "en": [
+        "hamburger meat"
+      ]
+    }
+  },
+  {
+    "id": "65",
+    "kana": "ご飯",
+    "word": "ごはん",
+    "translate": {
+      "hy": [
+        [
+          "Խաշած բրինձ"
+        ]
+      ],
+      "en": [
+        "cooked rice"
+      ]
+    }
+  },
+  {
+    "id": "66",
+    "kana": "ご飯を2つ下さい",
+    "word": "ごはんを２つください",
+    "translate": {
+      "hy": [
+        [
+          "Խնդրում եմ",
+          " երկու աման բրինձ տվեք։"
+        ]
+      ],
+      "en": [
+        "Two bowls of rice, please."
+      ]
+    }
+  },
+  {
+    "id": "67",
+    "kana": null,
+    "word": "ライス",
+    "translate": {
+      "hy": [
+        [
+          "բրինձ"
+        ]
+      ],
+      "en": [
+        "rice"
+      ]
+    }
+  },
+  {
+    "id": "68",
+    "kana": null,
+    "word": "ジュース",
+    "translate": {
+      "hy": [
+        [
+          "հյութ"
+        ]
+      ],
+      "en": [
+        "juice"
+      ]
+    }
+  },
+  {
+    "id": "69",
+    "kana": null,
+    "word": "コーヒー",
+    "translate": {
+      "hy": [
+        [
+          "սուրճ"
+        ]
+      ],
+      "en": [
+        "coffee"
+      ]
+    }
+  },
+  {
+    "id": "70",
+    "kana": "紅茶",
+    "word": "こうちゃ",
+    "translate": {
+      "hy": [
+        [
+          "թեյ"
+        ]
+      ],
+      "en": [
+        "tea"
+      ]
+    }
+  },
+  {
+    "id": "71",
+    "kana": "(お) 茶",
+    "word": "（お）ちゃ",
+    "translate": {
+      "hy": [
+        [
+          "կանաչ թեյ"
+        ]
+      ],
+      "en": [
+        "green tea"
+      ]
+    }
+  },
+  {
+    "id": "72",
+    "kana": null,
+    "word": "ビール",
+    "translate": {
+      "hy": [
+        [
+          "գարեջուր"
+        ]
+      ],
+      "en": [
+        "beer"
+      ]
+    }
+  },
+  {
+    "id": "73",
+    "kana": null,
+    "word": "ワイン",
+    "translate": {
+      "hy": [
+        [
+          "գինի"
+        ]
+      ],
+      "en": [
+        "wine"
+      ]
+    }
+  },
+  {
+    "id": "74",
+    "kana": null,
+    "word": "インド(インドの)",
+    "translate": {
+      "hy": [
+        [
+          "Հնդկաստան (այստեղ՝ հնդիկ)"
+        ]
+      ],
+      "en": [
+        "India (Indian)"
+      ]
+    }
+  },
+  {
+    "id": "75",
+    "kana": null,
+    "word": "ドイツ(ドイツの)",
+    "translate": {
+      "hy": [
+        [
+          "Գերմանիա (այստեղ՝ գերմանացի)"
+        ]
+      ],
+      "en": [
+        "Germany (German)"
+      ]
+    }
+  },
+  {
+    "id": "76",
+    "kana": null,
+    "word": "フランス(フランスの)",
+    "translate": {
+      "hy": [
+        [
+          "Ֆրանսիացի (այստեղ՝ ֆրանսիացի)"
+        ]
+      ],
+      "en": [
+        "France (French)"
+      ]
+    }
+  },
+  {
+    "id": "77",
+    "kana": "財布",
+    "word": "さいふ",
+    "translate": {
+      "hy": [
+        [
+          "դրամապանակ"
+        ]
+      ],
+      "en": [
+        "wallet/ billfold"
+      ]
+    }
+  },
+  {
+    "id": "78",
+    "kana": "英語",
+    "word": "えいご",
+    "translate": {
+      "hy": [
+        [
+          "Անգլերեն"
+        ]
+      ],
+      "en": [
+        "English"
+      ]
+    }
+  },
+  {
+    "id": "79",
+    "kana": "〜語 (例: 日本語)",
+    "word": "～ご（れい：にほんご）",
+    "translate": {
+      "hy": [
+        [
+          "~ լեզու (օր․՝ ճապոնացի)"
+        ]
+      ],
+      "en": [
+        "language identifier (e.g. Japanese)"
+      ]
+    }
+  },
+  {
+    "id": "80",
+    "kana": null,
+    "word": "～つ",
+    "translate": {
+      "hy": [
+        [
+          "~ հատ (հաշվարկման միավոր)"
+        ]
+      ],
+      "en": [
+        "counter (1 serving)"
+      ]
+    }
+  },
+  {
+    "id": "81",
+    "kana": "誰",
+    "word": "だれ",
+    "translate": {
+      "hy": [
+        [
+          "Ինչ որ մեկը (որևէ մեկը)"
+        ]
+      ],
+      "en": [
+        "someone"
+      ]
+    }
+  },
+  {
+    "id": "82",
+    "kana": "注文をお願いします",
+    "word": "ちゅうもんをおねがいします",
+    "translate": {
+      "hy": [
+        [
+          "Ես ցանկանում եմ հիմա պատվեր անել։"
+        ]
+      ],
+      "en": [
+        "I'd like to order now."
+      ]
+    }
+  },
+  {
+    "id": "83",
+    "kana": null,
+    "word": "どうぞ",
+    "translate": {
+      "hy": [
+        [
+          "Իհարկե",
+          " խնդրեմ։"
+        ]
+      ],
+      "en": [
+        "Certainly. Go ahead. "
+      ]
+    }
+  },
+  {
+    "id": "Section",
+    "kana": null,
+    "word": "もう一度聞こう",
+    "translate": {
+      "hy": [
+        null
+      ],
+      "en": [
+        null
+      ]
+    }
+  },
+  {
+    "id": "84",
+    "kana": null,
+    "word": "こちらへどうぞ",
+    "translate": {
+      "hy": [
+        [
+          "Խնդրեմ",
+          " այս կողմ։"
+        ]
+      ],
+      "en": [
+        "This way, please."
+      ]
+    }
+  },
+  {
+    "id": "85",
+    "kana": null,
+    "word": "メニュー",
+    "translate": {
+      "hy": [
+        [
+          "մենյու"
+        ]
+      ],
+      "en": [
+        "menu"
+      ]
+    }
+  },
+  {
+    "id": "86",
+    "kana": "少々お待ち下さい",
+    "word": "しょうしょうおまちください",
+    "translate": {
+      "hy": [
+        [
+          "Մեկ րոպե",
+          " խնդրում եմ։"
+        ]
+      ],
+      "en": [
+        "One moment, please."
+      ]
+    }
+  }
+]

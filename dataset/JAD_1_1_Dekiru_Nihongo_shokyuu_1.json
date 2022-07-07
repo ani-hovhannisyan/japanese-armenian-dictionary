@@ -1,0 +1,880 @@
+[
+  {
+    "id": "Section",
+    "kana": null,
+    "word": "１ 私の名前・国・仕事 ",
+    "translate": {
+      "hy": [
+        null
+      ],
+      "en": [
+        null
+      ]
+    }
+  },
+  {
+    "id": "01",
+    "kana": "私",
+    "word": "わたし",
+    "translate": {
+      "hy": [
+        [
+          "ես"
+        ]
+      ],
+      "en": [
+        "I"
+      ]
+    }
+  },
+  {
+    "id": "02",
+    "kana": "(お)名前",
+    "word": "（お)なまえ",
+    "translate": {
+      "hy": [
+        [
+          "անուն*1"
+        ]
+      ],
+      "en": [
+        "name (\"O\" prefix not used when referring to oneself)"
+      ]
+    }
+  },
+  {
+    "id": "03",
+    "kana": "(お)国",
+    "word": "（お)くに",
+    "translate": {
+      "hy": [
+        [
+          "երկիր*1"
+        ]
+      ],
+      "en": [
+        "country (\"O\" prefix not used when referring to one's own country)"
+      ]
+    }
+  },
+  {
+    "id": "04",
+    "kana": "日本",
+    "word": "にほん",
+    "translate": {
+      "hy": [
+        [
+          "Ճապոնիա"
+        ]
+      ],
+      "en": [
+        "Japan"
+      ]
+    }
+  },
+  {
+    "id": "05",
+    "kana": null,
+    "word": "アメリカ",
+    "translate": {
+      "hy": [
+        [
+          "Ամերիկա"
+        ]
+      ],
+      "en": [
+        "America"
+      ]
+    }
+  },
+  {
+    "id": "06",
+    "kana": null,
+    "word": "イタリア",
+    "translate": {
+      "hy": [
+        [
+          "Իտալիա"
+        ]
+      ],
+      "en": [
+        "Italy"
+      ]
+    }
+  },
+  {
+    "id": "07",
+    "kana": null,
+    "word": "オーストラリア",
+    "translate": {
+      "hy": [
+        [
+          "Ավստրալիա"
+        ]
+      ],
+      "en": [
+        "Australia"
+      ]
+    }
+  },
+  {
+    "id": "08",
+    "kana": "韓国",
+    "word": "かんこく",
+    "translate": {
+      "hy": [
+        [
+          "Կորեա"
+        ]
+      ],
+      "en": [
+        "Korea"
+      ]
+    }
+  },
+  {
+    "id": "09",
+    "kana": null,
+    "word": "タイ",
+    "translate": {
+      "hy": [
+        [
+          "Թաիլանդ"
+        ]
+      ],
+      "en": [
+        "Thailand"
+      ]
+    }
+  },
+  {
+    "id": "10",
+    "kana": "中国",
+    "word": "ちゅうごく",
+    "translate": {
+      "hy": [
+        [
+          "Չինաստան"
+        ]
+      ],
+      "en": [
+        "China"
+      ]
+    }
+  },
+  {
+    "id": "11",
+    "kana": null,
+    "word": "ロシア",
+    "translate": {
+      "hy": [
+        [
+          "Ռուսաստան"
+        ]
+      ],
+      "en": [
+        "Russia"
+      ]
+    }
+  },
+  {
+    "id": "12",
+    "kana": "高校",
+    "word": "こうこう",
+    "translate": {
+      "hy": [
+        [
+          "ավագ դպրոց"
+        ]
+      ],
+      "en": [
+        "high school"
+      ]
+    }
+  },
+  {
+    "id": "13",
+    "kana": "大学",
+    "word": "だいがく",
+    "translate": {
+      "hy": [
+        [
+          "համալսարան"
+        ]
+      ],
+      "en": [
+        "university"
+      ]
+    }
+  },
+  {
+    "id": "14",
+    "kana": "日本語学校",
+    "word": "にほんごがっこう",
+    "translate": {
+      "hy": [
+        [
+          "Ճապոներեն լեզվի դպրոց"
+        ]
+      ],
+      "en": [
+        "Japanese language school"
+      ]
+    }
+  },
+  {
+    "id": "15",
+    "kana": "(お) 仕事",
+    "word": "（お）しごと",
+    "translate": {
+      "hy": [
+        [
+          "աշխատանք",
+          " գործ*1"
+        ]
+      ],
+      "en": [
+        "work/ job (\"O\" prefix not used when referring to one's own work)"
+      ]
+    }
+  },
+  {
+    "id": "16",
+    "kana": "学生",
+    "word": "がくせい",
+    "translate": {
+      "hy": [
+        [
+          "ուսանող"
+        ]
+      ],
+      "en": [
+        "student"
+      ]
+    }
+  },
+  {
+    "id": "17",
+    "kana": "先生",
+    "word": "せんせい",
+    "translate": {
+      "hy": [
+        [
+          "ուսուցիչ (աշխատանքի անվանում է նաև օգտագործվում է ուսուցչին դիմելու ժամանակ՝  Ողջույն ընկեր Տանակա)"
+        ]
+      ],
+      "en": [
+        "teacher (job title and used when addressing a teacher: \"Konnichiha, Tanaka Sensei.\")"
+      ]
+    }
+  },
+  {
+    "id": "18",
+    "kana": "教師",
+    "word": "きょうし",
+    "translate": {
+      "hy": [
+        [
+          "ուսուցիչ (աշխատանքի անվանում)"
+        ]
+      ],
+      "en": [
+        "teacher (job title)"
+      ]
+    }
+  },
+  {
+    "id": "19",
+    "kana": "会社員",
+    "word": "かいしゃいん",
+    "translate": {
+      "hy": [
+        [
+          "աշխատող՝ երբ աշխատանքն են մատնանշում"
+        ]
+      ],
+      "en": [
+        "business person"
+      ]
+    }
+  },
+  {
+    "id": "20",
+    "kana": "社員",
+    "word": "しゃいん",
+    "translate": {
+      "hy": [
+        [
+          "աշխատակից՝ երբ անձին են մատնանշում"
+        ]
+      ],
+      "en": [
+        "company employee"
+      ]
+    }
+  },
+  {
+    "id": "21",
+    "kana": null,
+    "word": "～さん",
+    "translate": {
+      "hy": [
+        [
+          "~պարոն",
+          " ~տիկին",
+          " ~օրիորդ՝ վերջածանց",
+          " որը կցվում է անձի հատուկ անունը նշելուց"
+        ]
+      ],
+      "en": [
+        "Mr./ Mrs./Miss/ Ms."
+      ]
+    }
+  },
+  {
+    "id": "22",
+    "kana": "〜人 (日本人)",
+    "word": "～じん（れい：にほんじん）",
+    "translate": {
+      "hy": [
+        [
+          "~ացի՝ վերջածանց",
+          " որը ցույց է տալիս անձի ազգությունը",
+          " ռասա (օր․ ճապոնացի)"
+        ]
+      ],
+      "en": [
+        "nationality/ race (e.g.: Japanese)"
+      ]
+    }
+  },
+  {
+    "id": "23",
+    "kana": "どちら",
+    "word": "どちら",
+    "translate": {
+      "hy": [
+        [
+          "որը"
+        ]
+      ],
+      "en": [
+        "which"
+      ]
+    }
+  },
+  {
+    "id": "24",
+    "kana": "お国はどちらですか",
+    "word": "おくにはどちらですか。",
+    "translate": {
+      "hy": [
+        [
+          "Ո՞ր երկրից ես/եք։ Որտեղի՞ց ես/եք։"
+        ]
+      ],
+      "en": [
+        "Which country are you from? / Where are you from?"
+      ]
+    }
+  },
+  {
+    "id": "25",
+    "kana": "初めまして",
+    "word": "はじめまして",
+    "translate": {
+      "hy": [
+        [
+          "Շատ հաճելի է։ Ուրախ եմ ծանոթանալ։  (անծանոթին առաջին անգամ հանդիպելուց)"
+        ]
+      ],
+      "en": [
+        "It's a pleasure to meet you."
+      ]
+    }
+  },
+  {
+    "id": "26",
+    "kana": "(どうぞ)よろしくお願いします",
+    "word": "（どうぞ）よろしくおねがいします",
+    "translate": {
+      "hy": [
+        [
+          "Սպասում եմ ձեզ հետ համագործակցելուն։"
+        ]
+      ],
+      "en": [
+        "I'm looking forward to knowing you."
+      ]
+    }
+  },
+  {
+    "id": "27",
+    "kana": null,
+    "word": "こちらこそ",
+    "translate": {
+      "hy": [
+        [
+          "Ես նույնպես"
+        ]
+      ],
+      "en": [
+        "Me, too."
+      ]
+    }
+  },
+  {
+    "id": "28",
+    "kana": null,
+    "word": "あのう",
+    "translate": {
+      "hy": [
+        [
+          "Ը՜մ (մտածելու",
+          " հապաղելու արձագանք)"
+        ]
+      ],
+      "en": [
+        "Ah/\"Um\""
+      ]
+    }
+  },
+  {
+    "id": "29",
+    "kana": null,
+    "word": "すみません",
+    "translate": {
+      "hy": [
+        [
+          "Ներեցեք",
+          " կներեք"
+        ]
+      ],
+      "en": [
+        "Excuse me."
+      ]
+    }
+  },
+  {
+    "id": "30",
+    "kana": null,
+    "word": "あのう、すみません。",
+    "translate": {
+      "hy": [
+        [
+          "Վա՜յ",
+          " ներեցեք խնդրում եմ․․․"
+        ]
+      ],
+      "en": [
+        "Ah, excuse me."
+      ]
+    }
+  },
+  {
+    "id": "31",
+    "kana": null,
+    "word": "そうですか",
+    "translate": {
+      "hy": [
+        [
+          "իսկապե՞ս",
+          " իրո՞ք"
+        ]
+      ],
+      "en": [
+        "Oh, really?/ \"Oh, is that so?\""
+      ]
+    }
+  },
+  {
+    "id": "32",
+    "kana": null,
+    "word": "はい",
+    "translate": {
+      "hy": [
+        [
+          "Այո"
+        ]
+      ],
+      "en": [
+        "Yes."
+      ]
+    }
+  },
+  {
+    "id": "33",
+    "kana": null,
+    "word": "いいえ",
+    "translate": {
+      "hy": [
+        [
+          "Ոչ"
+        ]
+      ],
+      "en": [
+        "No."
+      ]
+    }
+  },
+  {
+    "id": "Section",
+    "kana": null,
+    "word": "2 私の誕生日",
+    "translate": {
+      "hy": [
+        null
+      ],
+      "en": [
+        null
+      ]
+    }
+  },
+  {
+    "id": "34",
+    "kana": "誕生日",
+    "word": "たんじょうび",
+    "translate": {
+      "hy": [
+        [
+          "ծնունդ"
+        ]
+      ],
+      "en": [
+        "birthday"
+      ]
+    }
+  },
+  {
+    "id": "35",
+    "kana": null,
+    "word": "ブラジル",
+    "translate": {
+      "hy": [
+        [
+          "Բրազիլիա"
+        ]
+      ],
+      "en": [
+        "Brazil"
+      ]
+    }
+  },
+  {
+    "id": "36",
+    "kana": "〜月",
+    "word": "～がつ",
+    "translate": {
+      "hy": [
+        [
+          "~ ամիս (1-ին ամիս",
+          " 2-րդ ամիս և այդպես շարունակ)"
+        ]
+      ],
+      "en": [
+        "～month (1st month = January, 2nd month = February, and so on.)"
+      ]
+    }
+  },
+  {
+    "id": "37",
+    "kana": "〜日",
+    "word": "～にち",
+    "translate": {
+      "hy": [
+        [
+          "~ օր (որպես շաբաթվա օր",
+          " օր․՝ Երկուշաբթի)"
+        ]
+      ],
+      "en": [
+        "～day (as in Monday)"
+      ]
+    }
+  },
+  {
+    "id": "38",
+    "kana": "〜歳",
+    "word": "～さい",
+    "translate": {
+      "hy": [
+        [
+          "~ տարեկան"
+        ]
+      ],
+      "en": [
+        "～years old"
+      ]
+    }
+  },
+  {
+    "id": "39",
+    "kana": null,
+    "word": "いつ",
+    "translate": {
+      "hy": [
+        [
+          "երբ (միայն հարցի ժամանակ)"
+        ]
+      ],
+      "en": [
+        "when"
+      ]
+    }
+  },
+  {
+    "id": "Section",
+    "kana": null,
+    "word": "３ 私の趣味 ",
+    "translate": {
+      "hy": [
+        null
+      ],
+      "en": [
+        null
+      ]
+    }
+  },
+  {
+    "id": "40",
+    "kana": "趣味",
+    "word": "しゅみ",
+    "translate": {
+      "hy": [
+        [
+          "նախասիրություն",
+          " զբաղմունք",
+          " հոբբի"
+        ]
+      ],
+      "en": [
+        "hobby/ interest"
+      ]
+    }
+  },
+  {
+    "id": "41",
+    "kana": null,
+    "word": "スポーツ",
+    "translate": {
+      "hy": [
+        [
+          "սպորտ"
+        ]
+      ],
+      "en": [
+        "sports"
+      ]
+    }
+  },
+  {
+    "id": "42",
+    "kana": null,
+    "word": "サッカー",
+    "translate": {
+      "hy": [
+        [
+          "ֆուտբոլ"
+        ]
+      ],
+      "en": [
+        "soccer"
+      ]
+    }
+  },
+  {
+    "id": "43",
+    "kana": null,
+    "word": "テニス",
+    "translate": {
+      "hy": [
+        [
+          "թենիս"
+        ]
+      ],
+      "en": [
+        "tennis"
+      ]
+    }
+  },
+  {
+    "id": "44",
+    "kana": "水泳",
+    "word": "すいえい",
+    "translate": {
+      "hy": [
+        [
+          "լող"
+        ]
+      ],
+      "en": [
+        "swimming"
+      ]
+    }
+  },
+  {
+    "id": "45",
+    "kana": "映画",
+    "word": "えいが",
+    "translate": {
+      "hy": [
+        [
+          "ֆիլմ"
+        ]
+      ],
+      "en": [
+        "movies"
+      ]
+    }
+  },
+  {
+    "id": "46",
+    "kana": "音楽",
+    "word": "おんがく",
+    "translate": {
+      "hy": [
+        [
+          "երաժշտություն"
+        ]
+      ],
+      "en": [
+        "music"
+      ]
+    }
+  },
+  {
+    "id": "47",
+    "kana": "読書",
+    "word": "どくしょ",
+    "translate": {
+      "hy": [
+        [
+          "ընթերցանություն"
+        ]
+      ],
+      "en": [
+        "reading"
+      ]
+    }
+  },
+  {
+    "id": "48",
+    "kana": "旅行",
+    "word": "りょこう",
+    "translate": {
+      "hy": [
+        [
+          "ճամփորդություն"
+        ]
+      ],
+      "en": [
+        "travel"
+      ]
+    }
+  },
+  {
+    "id": "49",
+    "kana": "料理",
+    "word": "りょうり",
+    "translate": {
+      "hy": [
+        [
+          "կերակուր",
+          " խոհարարություն"
+        ]
+      ],
+      "en": [
+        "cooking"
+      ]
+    }
+  },
+  {
+    "id": "50",
+    "kana": "私の趣味は料理です",
+    "word": "わたしのしゅみはりょうりです。",
+    "translate": {
+      "hy": [
+        [
+          "Իմ զբաղմունքը խոհարարությունն է։"
+        ]
+      ],
+      "en": [
+        "My hobby is cooking."
+      ]
+    }
+  },
+  {
+    "id": "51",
+    "kana": "何",
+    "word": "なん",
+    "translate": {
+      "hy": [
+        [
+          "ինչ"
+        ]
+      ],
+      "en": [
+        "what"
+      ]
+    }
+  },
+  {
+    "id": "52",
+    "kana": null,
+    "word": "あ（っ）",
+    "translate": {
+      "hy": [
+        [
+          "Ա՛հ (զարմանք արտահայտող բացականչություն)"
+        ]
+      ],
+      "en": [
+        "Ah"
+      ]
+    }
+  },
+  {
+    "id": "Section",
+    "kana": null,
+    "word": "もう一度聞こう",
+    "translate": {
+      "hy": [
+        null
+      ],
+      "en": [
+        null
+      ]
+    }
+  },
+  {
+    "id": "53",
+    "kana": null,
+    "word": "わあ",
+    "translate": {
+      "hy": [
+        [
+          "Վա՜յ"
+        ]
+      ],
+      "en": [
+        "Wow!"
+      ]
+    }
+  },
+  {
+    "id": "54",
+    "kana": "同じですね",
+    "word": "\nおなじですね_x000D_\n",
+    "translate": {
+      "hy": [
+        [
+          "Դա նույնն է",
+          " չէ՞։"
+        ]
+      ],
+      "en": [
+        "It's the same, isn't it?"
+      ]
+    }
+  }
+]

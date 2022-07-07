@@ -1,0 +1,1260 @@
+[
+  {
+    "id": "Section",
+    "kana": null,
+    "word": "話読聞書",
+    "translate": {
+      "hy": [
+        null
+      ],
+      "en": [
+        null
+      ]
+    }
+  },
+  {
+    "id": "01",
+    "kana": null,
+    "word": "チョコレート",
+    "translate": {
+      "hy": [
+        [
+          "շոկոլադ"
+        ]
+      ],
+      "en": [
+        "chocolate"
+      ]
+    }
+  },
+  {
+    "id": "02",
+    "kana": "美術館",
+    "word": "びじゅつかん",
+    "translate": {
+      "hy": [
+        [
+          "թանգարան"
+        ]
+      ],
+      "en": [
+        "art museum"
+      ]
+    }
+  },
+  {
+    "id": "03",
+    "kana": "皆さん",
+    "word": "みなさん",
+    "translate": {
+      "hy": [
+        [
+          "բոլորը (մարդիկ)"
+        ]
+      ],
+      "en": [
+        "everyone"
+      ]
+    }
+  },
+  {
+    "id": "04",
+    "kana": null,
+    "word": "いろいろ（な）",
+    "translate": {
+      "hy": [
+        [
+          "Տարբեր",
+          " բազմազան"
+        ]
+      ],
+      "en": [
+        "a variety of"
+      ]
+    }
+  },
+  {
+    "id": "05",
+    "kana": "〜から来ました",
+    "word": "～からきました",
+    "translate": {
+      "hy": [
+        [
+          "֊ից եկած"
+        ]
+      ],
+      "en": [
+        "come from ～"
+      ]
+    }
+  },
+  {
+    "id": "06",
+    "kana": "ぜひ来て下さい",
+    "word": "ぜひきてください",
+    "translate": {
+      "hy": [
+        [
+          "Անպայման",
+          " եկե՛ք։"
+        ]
+      ],
+      "en": [
+        "Please come!"
+      ]
+    }
+  },
+  {
+    "id": "Section",
+    "kana": null,
+    "word": "1. どこ",
+    "translate": {
+      "hy": [
+        null
+      ],
+      "en": [
+        null
+      ]
+    }
+  },
+  {
+    "id": "07",
+    "kana": "北",
+    "word": "きた",
+    "translate": {
+      "hy": [
+        [
+          "հյուսիս"
+        ]
+      ],
+      "en": [
+        "north"
+      ]
+    }
+  },
+  {
+    "id": "08",
+    "kana": "南",
+    "word": "みなみ",
+    "translate": {
+      "hy": [
+        [
+          "հարավ"
+        ]
+      ],
+      "en": [
+        "south"
+      ]
+    }
+  },
+  {
+    "id": "09",
+    "kana": "東",
+    "word": "ひがし",
+    "translate": {
+      "hy": [
+        [
+          "արևելք"
+        ]
+      ],
+      "en": [
+        "east"
+      ]
+    }
+  },
+  {
+    "id": "10",
+    "kana": "西",
+    "word": "にし",
+    "translate": {
+      "hy": [
+        [
+          "երևմուտք"
+        ]
+      ],
+      "en": [
+        "west"
+      ]
+    }
+  },
+  {
+    "id": "11",
+    "kana": "真ん中",
+    "word": "まんなか",
+    "translate": {
+      "hy": [
+        [
+          "մեջտեղ"
+        ]
+      ],
+      "en": [
+        "in the middle/ center"
+      ]
+    }
+  },
+  {
+    "id": "12",
+    "kana": "車",
+    "word": "くるま",
+    "translate": {
+      "hy": [
+        [
+          "մեքենա"
+        ]
+      ],
+      "en": [
+        "car"
+      ]
+    }
+  },
+  {
+    "id": "13",
+    "kana": "新幹線",
+    "word": "しんかんせん",
+    "translate": {
+      "hy": [
+        [
+          "արագընթաց գնացք (ճեպընթաց գնացքների համակարգ",
+          " որը կապում է քաղաքները իրար)"
+        ]
+      ],
+      "en": [
+        "Shinkansen/ bullet train (high-speed rail system connecting cities)"
+      ]
+    }
+  },
+  {
+    "id": "14",
+    "kana": "電車",
+    "word": "でんしゃ",
+    "translate": {
+      "hy": [
+        [
+          "գնացք"
+        ]
+      ],
+      "en": [
+        "train"
+      ]
+    }
+  },
+  {
+    "id": "15",
+    "kana": "飛行機",
+    "word": "ひこうき",
+    "translate": {
+      "hy": [
+        [
+          "ինքնաթիռ"
+        ]
+      ],
+      "en": [
+        "airplane"
+      ]
+    }
+  },
+  {
+    "id": "16",
+    "kana": "駅",
+    "word": "えき",
+    "translate": {
+      "hy": [
+        [
+          "կայարան"
+        ]
+      ],
+      "en": [
+        "station"
+      ]
+    }
+  },
+  {
+    "id": "17",
+    "kana": "町",
+    "word": "まち",
+    "translate": {
+      "hy": [
+        [
+          "քաղաք (փոքր չափի)"
+        ]
+      ],
+      "en": [
+        "town"
+      ]
+    }
+  },
+  {
+    "id": "18",
+    "kana": "〜時間",
+    "word": "～じかん",
+    "translate": {
+      "hy": [
+        [
+          "~ ժամանակահատված"
+        ]
+      ],
+      "en": [
+        "～hours"
+      ]
+    }
+  },
+  {
+    "id": "19",
+    "kana": "〜時間半",
+    "word": "～じかんはん",
+    "translate": {
+      "hy": [
+        [
+          "~ ժամ ու կես"
+        ]
+      ],
+      "en": [
+        "～and a half hours"
+      ]
+    }
+  },
+  {
+    "id": "20",
+    "kana": "〜分",
+    "word": "～ふん/ぷん",
+    "translate": {
+      "hy": [
+        [
+          "~ րոպեներ"
+        ]
+      ],
+      "en": [
+        "～minutes"
+      ]
+    }
+  },
+  {
+    "id": "21",
+    "kana": "うちから学校まで　20分です",
+    "word": "うちからがっこうまで　　　20ぷんです",
+    "translate": {
+      "hy": [
+        [
+          "Տանից մինև դպրոց 20 րոպե է։"
+        ]
+      ],
+      "en": [
+        "It takes 20 minutes from home to school."
+      ]
+    }
+  },
+  {
+    "id": "22",
+    "kana": "歩いて",
+    "word": "あるいて",
+    "translate": {
+      "hy": [
+        [
+          "քայլելով (ոտքով)"
+        ]
+      ],
+      "en": [
+        "walking/ by foot"
+      ]
+    }
+  },
+  {
+    "id": "23",
+    "kana": null,
+    "word": "～くらい",
+    "translate": {
+      "hy": [
+        [
+          "~ մասին"
+        ]
+      ],
+      "en": [
+        "about"
+      ]
+    }
+  },
+  {
+    "id": "24",
+    "kana": null,
+    "word": "どのくらい",
+    "translate": {
+      "hy": [
+        [
+          "ինչքա՞ն ժամանակ։ "
+        ]
+      ],
+      "en": [
+        "about how long?/ about how much time?"
+      ]
+    }
+  },
+  {
+    "id": "Section",
+    "kana": null,
+    "word": "2 どんなところ?",
+    "translate": {
+      "hy": [
+        null
+      ],
+      "en": [
+        null
+      ]
+    }
+  },
+  {
+    "id": "25",
+    "kana": "温泉",
+    "word": "おんせん",
+    "translate": {
+      "hy": [
+        [
+          "տաք ջուր"
+        ]
+      ],
+      "en": [
+        "hot spring"
+      ]
+    }
+  },
+  {
+    "id": "26",
+    "kana": "川",
+    "word": "かわ",
+    "translate": {
+      "hy": [
+        [
+          "գետ"
+        ]
+      ],
+      "en": [
+        "river"
+      ]
+    }
+  },
+  {
+    "id": "27",
+    "kana": "山",
+    "word": "やま",
+    "translate": {
+      "hy": [
+        [
+          "սար"
+        ]
+      ],
+      "en": [
+        "mountain"
+      ]
+    }
+  },
+  {
+    "id": "28",
+    "kana": "教会",
+    "word": "きょうかい",
+    "translate": {
+      "hy": [
+        [
+          "եկեղեցի"
+        ]
+      ],
+      "en": [
+        "church"
+      ]
+    }
+  },
+  {
+    "id": "29",
+    "kana": "(お) 城",
+    "word": "（お）しろ",
+    "translate": {
+      "hy": [
+        [
+          "ամրոց"
+        ]
+      ],
+      "en": [
+        "castle"
+      ]
+    }
+  },
+  {
+    "id": "30",
+    "kana": "神社",
+    "word": "じんじゃ",
+    "translate": {
+      "hy": [
+        [
+          "տաճար (սինտոիստական)"
+        ]
+      ],
+      "en": [
+        "shrine"
+      ]
+    }
+  },
+  {
+    "id": "31",
+    "kana": "(お) 寺",
+    "word": "（お）てら",
+    "translate": {
+      "hy": [
+        [
+          "տաճար (բուդդիստական)"
+        ]
+      ],
+      "en": [
+        "temple"
+      ]
+    }
+  },
+  {
+    "id": "32",
+    "kana": null,
+    "word": "ビル",
+    "translate": {
+      "hy": [
+        [
+          "կառույց"
+        ]
+      ],
+      "en": [
+        "building"
+      ]
+    }
+  },
+  {
+    "id": "33",
+    "kana": null,
+    "word": "ところ",
+    "translate": {
+      "hy": [
+        [
+          "տեղ"
+        ]
+      ],
+      "en": [
+        "place"
+      ]
+    }
+  },
+  {
+    "id": "34",
+    "kana": "人",
+    "word": "ひと",
+    "translate": {
+      "hy": [
+        [
+          "մարդիկ"
+        ]
+      ],
+      "en": [
+        "people"
+      ]
+    }
+  },
+  {
+    "id": "35",
+    "kana": "緑",
+    "word": "みどり",
+    "translate": {
+      "hy": [
+        [
+          "կանաչ"
+        ]
+      ],
+      "en": [
+        "green"
+      ]
+    }
+  },
+  {
+    "id": "36",
+    "kana": null,
+    "word": "あります［ある］",
+    "translate": {
+      "hy": [
+        [
+          "լինել",
+          " գոյություն"
+        ]
+      ],
+      "en": [
+        "there is/ are"
+      ]
+    }
+  },
+  {
+    "id": "37",
+    "kana": "箱根に温泉があります",
+    "word": "はこねにおんせんがあります",
+    "translate": {
+      "hy": [
+        [
+          "Հակոնեում լիքը տաք ջրեր կան։"
+        ]
+      ],
+      "en": [
+        "There are (many) hot springs in Hakone."
+      ]
+    }
+  },
+  {
+    "id": "38",
+    "kana": "新しい",
+    "word": "あたらしい",
+    "translate": {
+      "hy": [
+        [
+          "նոր"
+        ]
+      ],
+      "en": [
+        "new"
+      ]
+    }
+  },
+  {
+    "id": "39",
+    "kana": "古い",
+    "word": "ふるい",
+    "translate": {
+      "hy": [
+        [
+          "հին"
+        ]
+      ],
+      "en": [
+        "old"
+      ]
+    }
+  },
+  {
+    "id": "40",
+    "kana": null,
+    "word": "いい",
+    "translate": {
+      "hy": [
+        [
+          "լավ"
+        ]
+      ],
+      "en": [
+        "good"
+      ]
+    }
+  },
+  {
+    "id": "41",
+    "kana": "多い",
+    "word": "（～が）おおい",
+    "translate": {
+      "hy": [
+        [
+          "բազմաթիվ ~"
+        ]
+      ],
+      "en": [
+        "a lot of ～"
+      ]
+    }
+  },
+  {
+    "id": "42",
+    "kana": "少ない",
+    "word": "（～が）すくない",
+    "translate": {
+      "hy": [
+        [
+          "մի քանի ~"
+        ]
+      ],
+      "en": [
+        "few ～"
+      ]
+    }
+  },
+  {
+    "id": "43",
+    "kana": "大きい",
+    "word": "おおきい",
+    "translate": {
+      "hy": [
+        [
+          "մեծ ~"
+        ]
+      ],
+      "en": [
+        "big"
+      ]
+    }
+  },
+  {
+    "id": "44",
+    "kana": "小さい",
+    "word": "ちいさい",
+    "translate": {
+      "hy": [
+        [
+          "փոքր"
+        ]
+      ],
+      "en": [
+        "small"
+      ]
+    }
+  },
+  {
+    "id": "45",
+    "kana": "高い",
+    "word": "たかい",
+    "translate": {
+      "hy": [
+        [
+          "բարձր",
+          " բոյով"
+        ]
+      ],
+      "en": [
+        "high/ tall"
+      ]
+    }
+  },
+  {
+    "id": "46",
+    "kana": "富士山は高いです",
+    "word": "ふじさんはたかいです",
+    "translate": {
+      "hy": [
+        [
+          "Ֆուջի սարը բարձր է։"
+        ]
+      ],
+      "en": [
+        "Mt. Fuji is high."
+      ]
+    }
+  },
+  {
+    "id": "47",
+    "kana": "低い",
+    "word": "ひくい",
+    "translate": {
+      "hy": [
+        [
+          "ցածր"
+        ]
+      ],
+      "en": [
+        "low"
+      ]
+    }
+  },
+  {
+    "id": "48",
+    "kana": null,
+    "word": "きれい（な）",
+    "translate": {
+      "hy": [
+        [
+          "գեղեցիկ"
+        ]
+      ],
+      "en": [
+        "beautiful"
+      ]
+    }
+  },
+  {
+    "id": "49",
+    "kana": "静か (な)",
+    "word": "しずか（な）",
+    "translate": {
+      "hy": [
+        [
+          "լուռ"
+        ]
+      ],
+      "en": [
+        "quiet"
+      ]
+    }
+  },
+  {
+    "id": "50",
+    "kana": null,
+    "word": "にぎやか（な）",
+    "translate": {
+      "hy": [
+        [
+          "աղմուկ",
+          " աղմկոտ"
+        ]
+      ],
+      "en": [
+        "bustling"
+      ]
+    }
+  },
+  {
+    "id": "51",
+    "kana": "有名 (な)",
+    "word": "ゆうめい（な）",
+    "translate": {
+      "hy": [
+        [
+          "հայտնի"
+        ]
+      ],
+      "en": [
+        "famous"
+      ]
+    }
+  },
+  {
+    "id": "52",
+    "kana": null,
+    "word": "どんな",
+    "translate": {
+      "hy": [
+        [
+          "ինչպիսի",
+          " ինչպես"
+        ]
+      ],
+      "en": [
+        "what/ how(state or condition)"
+      ]
+    }
+  },
+  {
+    "id": "53",
+    "kana": null,
+    "word": "そして",
+    "translate": {
+      "hy": [
+        [
+          "և"
+        ]
+      ],
+      "en": [
+        "and"
+      ]
+    }
+  },
+  {
+    "id": "Section",
+    "kana": null,
+    "word": "3. 季節・料理",
+    "translate": {
+      "hy": [
+        null
+      ],
+      "en": [
+        null
+      ]
+    }
+  },
+  {
+    "id": "54",
+    "kana": "雨",
+    "word": "あめ",
+    "translate": {
+      "hy": [
+        [
+          "անձրև"
+        ]
+      ],
+      "en": [
+        "rain"
+      ]
+    }
+  },
+  {
+    "id": "55",
+    "kana": "雪",
+    "word": "ゆき",
+    "translate": {
+      "hy": [
+        [
+          "ձյուն"
+        ]
+      ],
+      "en": [
+        "snow"
+      ]
+    }
+  },
+  {
+    "id": "56",
+    "kana": "日",
+    "word": "ひ",
+    "translate": {
+      "hy": [
+        [
+          "օր"
+        ]
+      ],
+      "en": [
+        "day"
+      ]
+    }
+  },
+  {
+    "id": "57",
+    "kana": null,
+    "word": "メロン",
+    "translate": {
+      "hy": [
+        [
+          "սեխ"
+        ]
+      ],
+      "en": [
+        "melon"
+      ]
+    }
+  },
+  {
+    "id": "58",
+    "kana": "暖かい",
+    "word": "あたたかい",
+    "translate": {
+      "hy": [
+        [
+          "զով (եղանակ)"
+        ]
+      ],
+      "en": [
+        "warm (weather)"
+      ]
+    }
+  },
+  {
+    "id": "59",
+    "kana": "涼しい",
+    "word": "すずしい",
+    "translate": {
+      "hy": [
+        [
+          "ցուրտ"
+        ]
+      ],
+      "en": [
+        "cool"
+      ]
+    }
+  },
+  {
+    "id": "60",
+    "kana": "暑い",
+    "word": "あつい",
+    "translate": {
+      "hy": [
+        [
+          "տաք (եղանակ)"
+        ]
+      ],
+      "en": [
+        "hot (weather)"
+      ]
+    }
+  },
+  {
+    "id": "61",
+    "kana": "寒い",
+    "word": "さむい",
+    "translate": {
+      "hy": [
+        [
+          "ցուրտ (եղանակ)"
+        ]
+      ],
+      "en": [
+        "cold (weather)"
+      ]
+    }
+  },
+  {
+    "id": "62",
+    "kana": "天気がいい",
+    "word": "てんきがいい",
+    "translate": {
+      "hy": [
+        [
+          "լավ եղանակ"
+        ]
+      ],
+      "en": [
+        "nice weather"
+      ]
+    }
+  },
+  {
+    "id": "63",
+    "kana": "天気が悪い",
+    "word": "てんきがわるい",
+    "translate": {
+      "hy": [
+        [
+          "վատ եղանակ"
+        ]
+      ],
+      "en": [
+        "bad weather"
+      ]
+    }
+  },
+  {
+    "id": "64",
+    "kana": "温かい",
+    "word": "あたたかい",
+    "translate": {
+      "hy": [
+        [
+          "տաք"
+        ]
+      ],
+      "en": [
+        "warm"
+      ]
+    }
+  },
+  {
+    "id": "65",
+    "kana": "熱い",
+    "word": "あつい",
+    "translate": {
+      "hy": [
+        [
+          "շոգ"
+        ]
+      ],
+      "en": [
+        "hot"
+      ]
+    }
+  },
+  {
+    "id": "66",
+    "kana": "冷たい",
+    "word": "つめたい",
+    "translate": {
+      "hy": [
+        [
+          "ցուրտ"
+        ]
+      ],
+      "en": [
+        "cold"
+      ]
+    }
+  },
+  {
+    "id": "67",
+    "kana": "(美味しい)",
+    "word": "おいしい",
+    "translate": {
+      "hy": [
+        [
+          "համեղ"
+        ]
+      ],
+      "en": [
+        "delicious"
+      ]
+    }
+  },
+  {
+    "id": "68",
+    "kana": "甘い",
+    "word": "あまい",
+    "translate": {
+      "hy": [
+        [
+          "քաղցր"
+        ]
+      ],
+      "en": [
+        "sweet"
+      ]
+    }
+  },
+  {
+    "id": "69",
+    "kana": "辛い",
+    "word": "からい",
+    "translate": {
+      "hy": [
+        [
+          "կծու"
+        ]
+      ],
+      "en": [
+        "spicy"
+      ]
+    }
+  },
+  {
+    "id": "70",
+    "kana": "苦い",
+    "word": "にがい",
+    "translate": {
+      "hy": [
+        [
+          "դառը"
+        ]
+      ],
+      "en": [
+        "bitter"
+      ]
+    }
+  },
+  {
+    "id": "71",
+    "kana": "酸っぱい",
+    "word": "すっぱい",
+    "translate": {
+      "hy": [
+        [
+          "թթու"
+        ]
+      ],
+      "en": [
+        "sour"
+      ]
+    }
+  },
+  {
+    "id": "72",
+    "kana": "一年中",
+    "word": "いちねんじゅう",
+    "translate": {
+      "hy": [
+        [
+          "ամբողջ տարի"
+        ]
+      ],
+      "en": [
+        "all year round"
+      ]
+    }
+  },
+  {
+    "id": "73",
+    "kana": null,
+    "word": "あまり",
+    "translate": {
+      "hy": [
+        [
+          "ոչ այնքան"
+        ]
+      ],
+      "en": [
+        "not very/ not so"
+      ]
+    }
+  },
+  {
+    "id": "74",
+    "kana": "私の国は夏、あまり暑くないです",
+    "word": "わたしのくにはなつ、あまりあつくないです",
+    "translate": {
+      "hy": [
+        [
+          "Իմ երկրում ամառը շոգ չէ։"
+        ]
+      ],
+      "en": [
+        "Summers are not so hot in my country."
+      ]
+    }
+  },
+  {
+    "id": "75",
+    "kana": "少し",
+    "word": "すこし",
+    "translate": {
+      "hy": [
+        [
+          "մի քիչ / մի քանի"
+        ]
+      ],
+      "en": [
+        "a little/ a bit"
+      ]
+    }
+  },
+  {
+    "id": "76",
+    "kana": null,
+    "word": "とても",
+    "translate": {
+      "hy": [
+        [
+          "շատ"
+        ]
+      ],
+      "en": [
+        "very"
+      ]
+    }
+  },
+  {
+    "id": "77",
+    "kana": null,
+    "word": "どう",
+    "translate": {
+      "hy": [
+        [
+          "ինչպես"
+        ]
+      ],
+      "en": [
+        "how"
+      ]
+    }
+  },
+  {
+    "id": "78",
+    "kana": null,
+    "word": "そうですね",
+    "translate": {
+      "hy": [
+        [
+          "Այո",
+          " այդպես է։"
+        ]
+      ],
+      "en": [
+        "Yes, it is. "
+      ]
+    }
+  },
+  {
+    "id": "Section",
+    "kana": null,
+    "word": "もう一度聞こう",
+    "translate": {
+      "hy": [
+        null
+      ],
+      "en": [
+        null
+      ]
+    }
+  },
+  {
+    "id": "79",
+    "kana": null,
+    "word": "たくさん",
+    "translate": {
+      "hy": [
+        [
+          "շատ / մի քանի"
+        ]
+      ],
+      "en": [
+        "a lot of/ many"
+      ]
+    }
+  }
+]

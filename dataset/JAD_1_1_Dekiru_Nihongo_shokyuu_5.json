@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "Section",
+    "kana": null,
+    "word": "話読聞書",
+    "translate": {
+      "hy": [
+        null
+      ],
+      "en": [
+        null
+      ]
+    }
+  },
+  {
+    "id": "01",
+    "kana": "近く",
+    "word": "ちかく",
+    "translate": {
+      "hy": [
+        [
+          "մոտ / մոտակայք"
+        ]
+      ],
+      "en": [
+        "close/ nearby"
+      ]
+    }
+  },
+  {
+    "id": "02",
+    "kana": "1日",
+    "word": "いちにち",
+    "translate": {
+      "hy": [
+        [
+          "մի օր"
+        ]
+      ],
+      "en": [
+        "1 day"
+      ]
+    }
+  },
+  {
+    "id": "03",
+    "kana": null,
+    "word": "また",
+    "translate": {
+      "hy": [
+        [
+          "նորից"
+        ]
+      ],
+      "en": [
+        "again"
+      ]
+    }
+  },
+  {
+    "id": "Section",
+    "kana": null,
+    "word": "1 　週末",
+    "translate": {
+      "hy": [
+        null
+      ],
+      "en": [
+        null
+      ]
+    }
+  },
+  {
+    "id": "04",
+    "kana": "今日",
+    "word": "きょう",
+    "translate": {
+      "hy": [
+        [
+          "այսօր"
+        ]
+      ],
+      "en": [
+        "today"
+      ]
+    }
+  },
+  {
+    "id": "05",
+    "kana": "明日",
+    "word": "あした",
+    "translate": {
+      "hy": [
+        [
+          "վաղը"
+        ]
+      ],
+      "en": [
+        "tomorrow"
+      ]
+    }
+  },
+  {
+    "id": "06",
+    "kana": "明後日",
+    "word": "あさって",
+    "translate": {
+      "hy": [
+        [
+          "վաղը չէ մյուս օրը"
+        ]
+      ],
+      "en": [
+        "the day after tomorrow"
+      ]
+    }
+  },
+  {
+    "id": "07",
+    "kana": "昨日",
+    "word": "きのう",
+    "translate": {
+      "hy": [
+        [
+          "երեկ"
+        ]
+      ],
+      "en": [
+        "yesterday"
+      ]
+    }
+  },
+  {
+    "id": "08",
+    "kana": "一昨日",
+    "word": "おととい",
+    "translate": {
+      "hy": [
+        [
+          "երեկ չէ մյուս օրը"
+        ]
+      ],
+      "en": [
+        "the day before yesterday"
+      ]
+    }
+  },
+  {
+    "id": "09",
+    "kana": "先週",
+    "word": "せんしゅう",
+    "translate": {
+      "hy": [
+        [
+          "անցած շաբաթ"
+        ]
+      ],
+      "en": [
+        "last week"
+      ]
+    }
+  },
+  {
+    "id": "10",
+    "kana": "週末",
+    "word": "しゅうまつ",
+    "translate": {
+      "hy": [
+        [
+          "շաբաթվա վերջ"
+        ]
+      ],
+      "en": [
+        "weekend"
+      ]
+    }
+  },
+  {
+    "id": "11",
+    "kana": "家",
+    "word": "いえ",
+    "translate": {
+      "hy": [
+        [
+          "տուն"
+        ]
+      ],
+      "en": [
+        "house"
+      ]
+    }
+  },
+  {
+    "id": "12",
+    "kana": "部屋",
+    "word": "へや",
+    "translate": {
+      "hy": [
+        [
+          "սենյակ"
+        ]
+      ],
+      "en": [
+        "room"
+      ]
+    }
+  },
+  {
+    "id": "13",
+    "kana": null,
+    "word": "デパート",
+    "translate": {
+      "hy": [
+        [
+          "հանրախանութ"
+        ]
+      ],
+      "en": [
+        "department store"
+      ]
+    }
+  },
+  {
+    "id": "14",
+    "kana": "美術館",
+    "word": "びじゅつかん",
+    "translate": {
+      "hy": [
+        [
+          "թանգարան"
+        ]
+      ],
+      "en": [
+        "art museum"
+      ]
+    }
+  },
+  {
+    "id": "15",
+    "kana": null,
+    "word": "ゲーム",
+    "translate": {
+      "hy": [
+        [
+          "խաղ"
+        ]
+      ],
+      "en": [
+        "game"
+      ]
+    }
+  },
+  {
+    "id": "16",
+    "kana": "家族",
+    "word": "かぞく",
+    "translate": {
+      "hy": [
+        [
+          "ընտանիք"
+        ]
+      ],
+      "en": [
+        "family"
+      ]
+    }
+  },
+  {
+    "id": "17",
+    "kana": "恋人",
+    "word": "こいびと",
+    "translate": {
+      "hy": [
+        [
+          "ընկեր / ընկերուհի"
+        ]
+      ],
+      "en": [
+        "boyfriend/ girlfriend"
+      ]
+    }
+  },
+  {
+    "id": "18",
+    "kana": "友達",
+    "word": "ともだち",
+    "translate": {
+      "hy": [
+        [
+          "ընկեր"
+        ]
+      ],
+      "en": [
+        "friend"
+      ]
+    }
+  },
+  {
+    "id": "19",
+    "kana": null,
+    "word": "ルームメイト",
+    "translate": {
+      "hy": [
+        [
+          "սենյակակից"
+        ]
+      ],
+      "en": [
+        "roommate"
+      ]
+    }
+  },
+  {
+    "id": "20",
+    "kana": null,
+    "word": "どこか（へ）",
+    "translate": {
+      "hy": [
+        [
+          "ինչ որ տեղ"
+        ]
+      ],
+      "en": [
+        "(to) somewhere"
+      ]
+    }
+  },
+  {
+    "id": "21",
+    "kana": "会います　(会う)",
+    "word": "あいます［あう］",
+    "translate": {
+      "hy": [
+        [
+          "հանդիպում եմ/կհանդիպեմ (հանդիպել)"
+        ]
+      ],
+      "en": [
+        "meet"
+      ]
+    }
+  },
+  {
+    "id": "22",
+    "kana": "作ります　(作る)",
+    "word": "つくります［つくる］",
+    "translate": {
+      "hy": [
+        [
+          "պատրաստում եմ/կպատրաստեմ (պատրաստել)"
+        ]
+      ],
+      "en": [
+        "make"
+      ]
+    }
+  },
+  {
+    "id": "23",
+    "kana": "買い物します (する)",
+    "word": "かいもの・します［する］",
+    "translate": {
+      "hy": [
+        [
+          "արևտուր անում եմ/կանեմ (անել)"
+        ]
+      ],
+      "en": [
+        "shop/ go shopping"
+      ]
+    }
+  },
+  {
+    "id": "24",
+    "kana": "食事します(する)",
+    "word": "しょくじ・します［する］",
+    "translate": {
+      "hy": [
+        [
+          "ուտում եմ/կուտեմ (ուտել)"
+        ]
+      ],
+      "en": [
+        "eat"
+      ]
+    }
+  },
+  {
+    "id": "25",
+    "kana": "洗濯します(する)",
+    "word": "せんたく・します［する］",
+    "translate": {
+      "hy": [
+        [
+          "լվացք անում եմ/կանեմ (անել)"
+        ]
+      ],
+      "en": [
+        "do the washing / laundry"
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "kana": "掃除します(する)  　",
+    "word": "そうじ・します［する］",
+    "translate": {
+      "hy": [
+        [
+          "մաքրում եմ",
+          " կմաքրեմ (անել)"
+        ]
+      ],
+      "en": [
+        "clean"
+      ]
+    }
+  },
+  {
+    "id": "27",
+    "kana": null,
+    "word": "それから",
+    "translate": {
+      "hy": [
+        [
+          "դրանից հետո"
+        ]
+      ],
+      "en": [
+        "after that"
+      ]
+    }
+  },
+  {
+    "id": "28",
+    "kana": "1人で",
+    "word": "ひとりで",
+    "translate": {
+      "hy": [
+        [
+          "մենակ / մենակով"
+        ]
+      ],
+      "en": [
+        "alone/ by oneself "
+      ]
+    }
+  },
+  {
+    "id": "Section",
+    "kana": null,
+    "word": "2　休みの後で",
+    "translate": {
+      "hy": [
+        null
+      ],
+      "en": [
+        null
+      ]
+    }
+  },
+  {
+    "id": "29",
+    "kana": "今朝",
+    "word": "けさ",
+    "translate": {
+      "hy": [
+        [
+          "այս առավոտ"
+        ]
+      ],
+      "en": [
+        "this morning"
+      ]
+    }
+  },
+  {
+    "id": "30",
+    "kana": "先月",
+    "word": "せんげつ",
+    "translate": {
+      "hy": [
+        [
+          "անցած ամիս"
+        ]
+      ],
+      "en": [
+        "last month"
+      ]
+    }
+  },
+  {
+    "id": "31",
+    "kana": "去年",
+    "word": "きょねん",
+    "translate": {
+      "hy": [
+        [
+          "անցած տարի"
+        ]
+      ],
+      "en": [
+        "last year"
+      ]
+    }
+  },
+  {
+    "id": "32",
+    "kana": "風邪",
+    "word": "かぜ",
+    "translate": {
+      "hy": [
+        [
+          "ցուրտ"
+        ]
+      ],
+      "en": [
+        "a cold"
+      ]
+    }
+  },
+  {
+    "id": "33",
+    "kana": "天気",
+    "word": "てんき",
+    "translate": {
+      "hy": [
+        [
+          "եղանակ"
+        ]
+      ],
+      "en": [
+        "weather"
+      ]
+    }
+  },
+  {
+    "id": "34",
+    "kana": "晩ご飯",
+    "word": "ばんごはん",
+    "translate": {
+      "hy": [
+        [
+          "ընթրիք"
+        ]
+      ],
+      "en": [
+        "dinner"
+      ]
+    }
+  },
+  {
+    "id": "35",
+    "kana": "服",
+    "word": "ふく",
+    "translate": {
+      "hy": [
+        [
+          "շորեր"
+        ]
+      ],
+      "en": [
+        "clothes"
+      ]
+    }
+  },
+  {
+    "id": "36",
+    "kana": "登ります　(登る)",
+    "word": "のぼります［のぼる］",
+    "translate": {
+      "hy": [
+        [
+          "բարձրանալ",
+          " մագլցել"
+        ]
+      ],
+      "en": [
+        "climb"
+      ]
+    }
+  },
+  {
+    "id": "37",
+    "kana": "入ります　(入る)",
+    "word": "はいります［はいる］",
+    "translate": {
+      "hy": [
+        [
+          "մտնում եմ",
+          " կմտնել (մտնել)"
+        ]
+      ],
+      "en": [
+        "enter ( take)"
+      ]
+    }
+  },
+  {
+    "id": "38",
+    "kana": "温泉に入ります",
+    "word": "おんせんにはいります",
+    "translate": {
+      "hy": [
+        [
+          "տաք ջուր մտնել"
+        ]
+      ],
+      "en": [
+        "take a hot spring bath"
+      ]
+    }
+  },
+  {
+    "id": "39",
+    "kana": "忙しい",
+    "word": "いそがしい",
+    "translate": {
+      "hy": [
+        [
+          "զբաղված"
+        ]
+      ],
+      "en": [
+        "busy"
+      ]
+    }
+  },
+  {
+    "id": "40",
+    "kana": null,
+    "word": "おもしろい",
+    "translate": {
+      "hy": [
+        [
+          "հետաքրքիր"
+        ]
+      ],
+      "en": [
+        "interesting/ fun"
+      ]
+    }
+  },
+  {
+    "id": "41",
+    "kana": "気持ちがいい",
+    "word": "きもちがいい",
+    "translate": {
+      "hy": [
+        [
+          "լավ զգացողություն ունենալ"
+        ]
+      ],
+      "en": [
+        "a good feeling/ it feels good"
+      ]
+    }
+  },
+  {
+    "id": "42",
+    "kana": "高い",
+    "word": "たかい",
+    "translate": {
+      "hy": [
+        [
+          "բարձր"
+        ]
+      ],
+      "en": [
+        "high/ expensive"
+      ]
+    }
+  },
+  {
+    "id": "43",
+    "kana": "パソコンは高かったです",
+    "word": "パソコンはたかかったです",
+    "translate": {
+      "hy": [
+        [
+          "համակարգիչները թանկ են"
+        ]
+      ],
+      "en": [
+        "PCs were expensive."
+      ]
+    }
+  },
+  {
+    "id": "44",
+    "kana": "安い",
+    "word": "やすい",
+    "translate": {
+      "hy": [
+        [
+          "էժան"
+        ]
+      ],
+      "en": [
+        "inexpensive"
+      ]
+    }
+  },
+  {
+    "id": "45",
+    "kana": "楽しい",
+    "word": "たのしい",
+    "translate": {
+      "hy": [
+        [
+          "հաճելի"
+        ]
+      ],
+      "en": [
+        "fun/ enjoyable"
+      ]
+    }
+  },
+  {
+    "id": "46",
+    "kana": "難しい",
+    "word": "むずかしい",
+    "translate": {
+      "hy": [
+        [
+          "դժվար"
+        ]
+      ],
+      "en": [
+        "difficult/ hard"
+      ]
+    }
+  },
+  {
+    "id": "47",
+    "kana": "簡単　(な)",
+    "word": "かんたん（な）",
+    "translate": {
+      "hy": [
+        [
+          "հեշտ"
+        ]
+      ],
+      "en": [
+        "easy"
+      ]
+    }
+  },
+  {
+    "id": "48",
+    "kana": "大変　(な)",
+    "word": "たいへん（な）",
+    "translate": {
+      "hy": [
+        [
+          "դժվար"
+        ]
+      ],
+      "en": [
+        "awful (ly)"
+      ]
+    }
+  },
+  {
+    "id": "49",
+    "kana": "暇　(な)",
+    "word": "ひま（な）",
+    "translate": {
+      "hy": [
+        [
+          "ազատ ժամանակ"
+        ]
+      ],
+      "en": [
+        "at leisure/ free"
+      ]
+    }
+  },
+  {
+    "id": "50",
+    "kana": null,
+    "word": "どうして",
+    "translate": {
+      "hy": [
+        [
+          "ինչու"
+        ]
+      ],
+      "en": [
+        "why"
+      ]
+    }
+  },
+  {
+    "id": "Section",
+    "kana": null,
+    "word": "3 今度の休みに",
+    "translate": {
+      "hy": [
+        null
+      ],
+      "en": [
+        null
+      ]
+    }
+  },
+  {
+    "id": "51",
+    "kana": "今度",
+    "word": "こんど",
+    "translate": {
+      "hy": [
+        [
+          "հաջորդ"
+        ]
+      ],
+      "en": [
+        "next"
+      ]
+    }
+  },
+  {
+    "id": "52",
+    "kana": "今晩",
+    "word": "こんばん",
+    "translate": {
+      "hy": [
+        [
+          "այս երեկո"
+        ]
+      ],
+      "en": [
+        "this evening"
+      ]
+    }
+  },
+  {
+    "id": "53",
+    "kana": "今年",
+    "word": "ことし",
+    "translate": {
+      "hy": [
+        [
+          "այս տարի"
+        ]
+      ],
+      "en": [
+        "this year"
+      ]
+    }
+  },
+  {
+    "id": "54",
+    "kana": "来年",
+    "word": "らいねん",
+    "translate": {
+      "hy": [
+        [
+          "հաջորդ տարի"
+        ]
+      ],
+      "en": [
+        "next year"
+      ]
+    }
+  },
+  {
+    "id": "55",
+    "kana": null,
+    "word": "アニメ",
+    "translate": {
+      "hy": [
+        [
+          "անիմացիա"
+        ]
+      ],
+      "en": [
+        "animation"
+      ]
+    }
+  },
+  {
+    "id": "56",
+    "kana": "絵",
+    "word": "え",
+    "translate": {
+      "hy": [
+        [
+          "նկար"
+        ]
+      ],
+      "en": [
+        "picture"
+      ]
+    }
+  },
+  {
+    "id": "57",
+    "kana": "景色",
+    "word": "けしき",
+    "translate": {
+      "hy": [
+        [
+          "տեսարան"
+        ]
+      ],
+      "en": [
+        "view"
+      ]
+    }
+  },
+  {
+    "id": "58",
+    "kana": "自転車",
+    "word": "じてんしゃ",
+    "translate": {
+      "hy": [
+        [
+          "հեծանիվ"
+        ]
+      ],
+      "en": [
+        "bicycle"
+      ]
+    }
+  },
+  {
+    "id": "59",
+    "kana": "写真",
+    "word": "しゃしん",
+    "translate": {
+      "hy": [
+        [
+          "լուսանկար"
+        ]
+      ],
+      "en": [
+        "photograph"
+      ]
+    }
+  },
+  {
+    "id": "60",
+    "kana": "撮ります 　(撮る)",
+    "word": "とります［とる］",
+    "translate": {
+      "hy": [
+        [
+          "բռնում եմ",
+          " կբռնեմ (կբռնել)"
+        ]
+      ],
+      "en": [
+        "take"
+      ]
+    }
+  },
+  {
+    "id": "61",
+    "kana": "借ります　(借りる)",
+    "word": "かります［かりる］",
+    "translate": {
+      "hy": [
+        [
+          "ժամանակավոր վերցնել"
+        ]
+      ],
+      "en": [
+        "borrow"
+      ]
+    }
+  },
+  {
+    "id": "62",
+    "kana": "欲しい",
+    "word": "ほしい",
+    "translate": {
+      "hy": [
+        [
+          "ցանկանալ"
+        ]
+      ],
+      "en": [
+        "want"
+      ]
+    }
+  },
+  {
+    "id": "63",
+    "kana": "好き　(な)",
+    "word": "すき（な）",
+    "translate": {
+      "hy": [
+        [
+          "սիրել (սիրելի)"
+        ]
+      ],
+      "en": [
+        "like"
+      ]
+    }
+  },
+  {
+    "id": "64",
+    "kana": "嫌い　(な)",
+    "word": "きらい（な）",
+    "translate": {
+      "hy": [
+        [
+          "չսիրել (չսիրելի)"
+        ]
+      ],
+      "en": [
+        "dislike"
+      ]
+    }
+  },
+  {
+    "id": "Section",
+    "kana": null,
+    "word": "もう一度聞こう",
+    "translate": {
+      "hy": [
+        null
+      ],
+      "en": [
+        null
+      ]
+    }
+  },
+  {
+    "id": "65",
+    "kana": "寮",
+    "word": "りょう",
+    "translate": {
+      "hy": [
+        [
+          "հանրակացարան"
+        ]
+      ],
+      "en": [
+        "dormitory"
+      ]
+    }
+  },
+  {
+    "id": "66",
+    "kana": null,
+    "word": "いろいろ（な）",
+    "translate": {
+      "hy": [
+        [
+          "տարբեր / բազմազան"
+        ]
+      ],
+      "en": [
+        "a variety of"
+      ]
+    }
+  },
+  {
+    "id": "67",
+    "kana": null,
+    "word": "また",
+    "translate": {
+      "hy": [
+        [
+          "նորից"
+        ]
+      ],
+      "en": [
+        "again"
+      ]
+    }
+  },
+  {
+    "id": "68",
+    "kana": null,
+    "word": "それはよかったですね",
+    "translate": {
+      "hy": [
+        [
+          "Դա լավ է",
+          " չէ՞։"
+        ]
+      ],
+      "en": [
+        "That must have been nice."
+      ]
+    }
+  }
+]
